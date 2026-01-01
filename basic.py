@@ -1,7 +1,7 @@
-🚀 Comprehensions in Python (Create Great One-Liners
+# 🚀 Comprehensions in Python (Create Great One-Liners
 var = 'A' if condition else 'B'
 
-1️⃣ If Statement Comprehension
+# 1️⃣ If Statement Comprehension
 toggle = False
 if toggle:
     word = 'Enabled'
@@ -11,7 +11,7 @@ else:
 word = 'Enabled' if toggle else 'Disabled'
 print(word)
 
-2️⃣ List Comprehensions
+# 2️⃣ List Comprehensions
 
 items = ['item1', 'item2', 'item3']
 
